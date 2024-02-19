@@ -5,8 +5,8 @@ function App() {
 
   return (
     <div>
-     <h1 className='text-2xl'>Hello</h1>
-     <Button>Button</Button>
+      <Button className="text-4xl">Button</Button>
+      <Button className="text-h1">Button</Button>
     </div>
   )
 }
